@@ -1,0 +1,22 @@
+{
+  "name": "url_shortner",
+  "version": "1.0.0",
+  "description": "service to shorten url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhilhind/url_shortner.git"
+  },
+  "author": "Akhil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akhilhind/url_shortner/issues"
+  },
+  "homepage": "https://github.com/akhilhind/url_shortner#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
